@@ -2,7 +2,8 @@
 
 End-to-end data analysis of 13,320 Bengaluru house listings: cleaning, feature engineering, outlier handling, EDA, statistics, NumPy/maths, SQL, and preparation for machine learning.
 
-**Notebook:** `bengaluru_house_price_analysis.ipynb` (HTML copy with outputs: `bengaluru_house_price_analysis.html`)
+**Notebook:** `bengaluru_house_price_analysis.ipynb` (HTML copy with outputs: 
+`bengaluru_house_price_analysis.html`)
 
 ## Key findings
 
